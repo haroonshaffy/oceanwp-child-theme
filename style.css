@@ -1,0 +1,29 @@
+/*
+Theme Name: OceanWP Child
+Theme URI: https://oceanwp.org/
+Template: oceanwp
+Author: Haroon
+Author URI: https://oceanwp.org/about-me/
+Description: This is a custom child theme of the OceanWP theme. 
+Version: 1.0.0.1636695794
+Updated: 2021-11-12 05:43:14
+
+*/
+a{
+	text-decoration:none;
+}
+
+#content h2 a {
+	color: blueviolet !important;
+}
+
+.elementor-23 .elementor-element.elementor-element-6035144 .elementor-heading-title {
+    color: blueviolet;
+    font-family: "Roboto", Sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.elementor-item a {
+	color: brown !important;
+}
